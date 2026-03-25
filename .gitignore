@@ -1,5 +1,8 @@
 config/
 
+!com/sp/app/config/
+!com/sp/app/config/**
+
 HELP.md
 .gradle
 build/
